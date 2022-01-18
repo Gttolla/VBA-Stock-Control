@@ -1,0 +1,15 @@
+Prioridade
+	Sistema de tempo limite
+
+Deixa pra dps
+	Deletar altomaticamente das duas planilhas ("Controle_de_Produtos" e "Compras_e_Vendas")
+	
+	
+
+Realizada
+	Sim ou não para o botão de excluir
+	N/A duplicação
+	Adicionar fotos
+	Login
+	Editar Produto (Faltam apenas os detales)
+	Adicionar "Tipo" ao controle de produtos
